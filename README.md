@@ -11,4 +11,4 @@ Conclusions: GBAIM is proved to be a valuable AI tool in clinical practice. More
 
 ## Code Availability  
 
-The code is currently being organized and will be made available before the publication of the paper. Stay tuned for updates.  
+The code is currently being organized and will be made available before the publication of the paper. We appreciate your interest and patience.
