@@ -1,7 +1,5 @@
 # GBAIM
 
-# xxxxxxx  
-
 This repository contains the code for the paper **"A multi-class gastric biopsy artificial intelligence model (GBAIM) developed from whole slide histopathological images: a retrospective and prospective study"**.  
 
 ## Abstract  
