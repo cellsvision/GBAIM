@@ -15,7 +15,8 @@ Python packages required:
 - `torch`==1.10.0+cu111
 - `numpy`==1.19.5
 - `opencv-python`==4.5.3.56 
-- `scikit-learn`==0.24.2  
+- `scikit-learn`==0.24.2
+- `timm`==0.6.12  
 
 Install dependencies with:  
 ```bash
