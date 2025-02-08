@@ -21,11 +21,10 @@ from sklearn import metrics
 from torch.utils.tensorboard import SummaryWriter
 from scipy.special import softmax
 
-# import timm
+import timm
 
 from segmentation_models_pytorch.losses import DiceLoss
 
-from model_utils import timm
 
 
 class GHDModel(nn.Module):   
