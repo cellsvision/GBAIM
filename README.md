@@ -48,12 +48,12 @@ python ./train_val.py --do_train
 
 To continue patch-level model training from a previous checkpoint, run the following command:
 ```bash 
-python ./train_val.py --do_train --ckpt_path [checkpoint_path]
+python ./train_val.py --do_train True --ckpt_path [checkpoint_path]
 ```
 
 To start patch-level model evaluation, run the following command:
 ```bash
-python ./train_val.py --ckpt_path [checkpoint_path]
+python ./train_val.py --do_train False --ckpt_path [checkpoint_path]
 ```
 
 ## WSI-Level Inference
