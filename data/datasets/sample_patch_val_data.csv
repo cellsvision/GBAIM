@@ -1,0 +1,7 @@
+ag,c,hgd,hos,is_biopsy,kfb,lgd,matched_20c,mrxs,nag,p,sdpc,set,slide_num_adj,tmap,zyp
+1.0,0.0,0.0,zs3y_th,,,0.0,慢性萎缩性胃炎,,0.0,0.0,,train,AG_sample,AG_sample.TMAP,
+0.0,0.0,0.0,zs3y_th,,,0.0,炎性息肉,,0.0,1.0,,train,P_sample,P_sample.TMAP,
+0.0,0.0,0.0,zs3y_th,,,0.0,慢性非萎缩性胃炎,,1.0,0.0,,train,NAG_sample,NAG_sample.TMAP,
+0.0,1.0,0.0,zs3y_th,,,0.0,低分化腺癌,,0.0,0.0,,train,C_sample,C_sample.TMAP,
+0.0,0.0,1.0,zs3y_th,,,0.0,高级别异型增生,,0.0,0.0,HGD_sample.sdpc,train,HGD_sample,,
+0.0,0.0,0.0,zs3y_lg,,,1.0,低级别异型增生,,0.0,0.0,,train,LGD_sample,LGD_sample.TMAP,
