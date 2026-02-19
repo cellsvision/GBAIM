@@ -63,3 +63,7 @@ To generate the WSI-level result:
 ```bash 
 python ./get_wsi_result.py --ckpt_path [checkpoint_path]
 ```
+
+​You can download the supplementary video from the link below, 
+
+[Supplementary video](https://pan.baidu.com/s/1UP2CFrKuQV2DKx8FnvZitA?pwd=kyxp) code: kyxp
